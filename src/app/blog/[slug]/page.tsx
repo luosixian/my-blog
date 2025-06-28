@@ -77,7 +77,7 @@ const Page = async (props: { params: Promise<Params> }) => {
         <div className="max-w-prose mx-auto text-xl">
           {result.post.metadata?.private ? (
             <div className="text-center text-gray-500 my-10">
-              🔒 本文为私人内容，仅限作者本人查看。
+              🔒 本文暂时仅主人可见。
             </div>
           ) : (
             <>
