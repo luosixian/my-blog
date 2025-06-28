@@ -75,9 +75,17 @@ const Page = async (props: { params: Promise<Params> }) => {
       <div className="container mx-auto px-5">
         <Header />
         <div className="max-w-prose mx-auto text-xl">
-          <BlogPostContent post={result.post} />
-          <RelatedPosts posts={posts} />
-          <CommentSection slug={slug} />
+          {result.post.metadata?.private ? (
+            <div className="text-center text-gray-500 my-10">
+              🔒 本文为私人内容，仅限作者本人查看。
+            </div>
+          ) : (
+            <>
+              <BlogPostContent post={result.post} />
+              <RelatedPosts posts={posts} />
+              <CommentSection slug={slug} />
+            </>
+          )}
         </div>
         <Footer />
       </div>
