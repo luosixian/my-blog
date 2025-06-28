@@ -10,8 +10,6 @@ const content = `# About Me
 
 一个永远在路上的人
 
-Let's go on an adventure!
-
 Love,
 
 Sixian`;
