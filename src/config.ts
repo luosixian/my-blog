@@ -2,9 +2,9 @@ const buildConfig = () => {
   const blogId = process.env.NEXT_PUBLIC_BLOG_ID;
   if (!blogId) throw new Error("NEXT_PUBLIC_BLOG_ID is missing");
   const name = process.env.NEXT_PUBLIC_BLOG_DISPLAY_NAME || "Life Journey.";
-  const copyright = process.env.NEXT_PUBLIC_BLOG_COPYRIGHT || "Sixian's Blog";
+  const copyright = process.env.NEXT_PUBLIC_BLOG_COPYRIGHT || "Sixian";
   const defaultTitle =
-    process.env.NEXT_DEFAULT_METADATA_DEFAULT_TITLE || "Sixian";
+    process.env.NEXT_DEFAULT_METADATA_DEFAULT_TITLE || "Sixian's Blog";
   const defaultDescription = process.env.NEXT_PUBLIC_BLOG_DESCRIPTION || "Blog about life.";
 
   return {
