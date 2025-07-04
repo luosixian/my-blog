@@ -26,7 +26,7 @@ But hey, I'm not just a shut-in with RGB lighting. I love **offline events** too
 
 **人生就是一场旅途** — life is a journey. And if the scenery along the way isn’t worth remembering, then what’s the point of the destination? This blog is my way of recording those fleeting moments—the pixels, the people, the places.
 
-Thanks for stopping by. Hope you stick around 💫
+Thanks for stopping by. Wishing you a wonderful day 💫
 
 Love,
 
