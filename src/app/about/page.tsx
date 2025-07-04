@@ -22,7 +22,7 @@ I love offline events too! The last convention I went to was [Wonder Festival Sh
 
 Outside of otaku life, I also enjoy **traveling**. Over the past year, I’ve wandered through **Kobe**, **Hiroshima**, **Chengdu**, **Leshan**, **Yibin**, and [**Numazu**](https://www.city.numazu.shizuoka.jp/). I like driving through the countryside in Japan, just to enjoy the feeling.
 
-**人生就是一场旅途** — life is a journey. And if the scenery along the way isn’t worth remembering, then what’s the point of the destination? This blog is my way of recording those little moments—the pixels, the people, the places.
+**人生就是一场旅途** — life is a journey. And if the scenery along the way isn’t worth remembering, then what’s the point of the destination? This blog is my way of recording those little moments.
 
 Thanks for stopping by. Wishing you a wonderful day
 
